@@ -51,37 +51,38 @@
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">When Englishman Archie Moffam complains to the manager of the New York hotel he is staying in he has no idea this will just be the start of a series of awkward, embarrassing yet hilarious situations he’ll find himself embroiled in.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			Indiscretions of Archie is a comic novel by a href=”https://standardebooks.org/ebooks/p-g-wodehouse P. G. Wodehouse adapted from a set of short stories serialised in the Strand magazine between March 1920 and February 1921 in the United Kingdom and between May 1920 and February 1921 in Cosmopolitan in the United States. The novel was first published in the United Kingdom on 14 February 1921 by Herbert Jenkins and in the United States on 15 July 1921 by George H. Doran.
+The eponymous Archie is Archibald Moffam or ‘Moom”, a gaffe-prone but affable Englishman who has found himself living in New York City after the end of the First World War in which he had served with distinction. After a whirlwind romance Archie marries Lucille, the daughter of wealthy hotel owner and art collector Daniel Brewster and many of the ensuing events in the book revolve around Archie’s attempts to win favour with his new father-in-law.
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3756</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/cu31924085208829</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Indiscretions_of_Archie</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_indiscretions-of-archie</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">P. G. Wodehouse</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/P._G._Wodehouse</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089036</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Jean-François Gigoux</dc:contributor>
+		<meta property="file-as" refines="#artist">Gigoux, Jean-François</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean_Gigoux</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Franks, Charles</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Chuck Greif</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Greif, Chuck</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Andy Oakley</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Oakley, Andy</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
