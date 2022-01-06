@@ -40,7 +40,6 @@ blockquote[epub|type~="z3998:letter"]{
 	margin: 1em 0;
 }
 
-
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	text-align: initial;
