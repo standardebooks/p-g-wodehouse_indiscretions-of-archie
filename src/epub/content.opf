@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-01-07T23:51:51Z</dc:date>
+		<meta property="dcterms:modified">2022-01-07T23:51:51Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -20,7 +20,6 @@
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
-		<meta property="schema:accessibilityFeature">longDescription</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -53,16 +52,16 @@
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel he is staying in little does he know how significant this encounter will be.</dc:description>
+		<dc:description id="description">When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Indiscretions of Archie is a comic novel by &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt; adapted from a set of short stories serialised in the Strand magazine between March 1920 and February 1921 in the United Kingdom and between May 1920 and February 1921 in Cosmopolitan in the United States. The novel was first published in the United Kingdom on 14 February 1921 by Herbert Jenkins and in the United States on 15 July 1921 by George H. Doran.&lt;/p&gt;
-			&lt;p&gt;The eponymous Archie is Archibald Moffam, a gaffe-prone but affable Englishman who has found himself living in New York City after the end of the First World War, in which he had served with distinction. After a whirlwind romance Archie marries Lucille, the daughter of wealthy hotel owner and art collector Daniel Brewster and many of the ensuing events in the book revolve around Archie’s attempts to win favour with his new father-in-law.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Indiscretions of Archie&lt;/i&gt; is a comic novel adapted from a set of short stories serialized in the Strand magazine between March 1920 and February 1921 in the United Kingdom and between May 1920 and February 1921 in Cosmopolitan in the United States. The novel was first published in the United Kingdom on February 14, 1921 by Herbert Jenkins and in the United States on July 15, 1921 by George H. Doran.&lt;/p&gt;
+			&lt;p&gt;The eponymous Archie is Archibald Moffam, a gaffe-prone but affable Englishman who has found himself living in New York City after the end of the First World War, in which he had served with distinction. After a whirlwind romance Archie marries Lucille, the daughter of wealthy hotel owner and art collector Daniel Brewster. Many of the ensuing events revolve around Archie’s attempts to win favor with his new father-in-law.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3756</dc:source>
 		<dc:source>https://archive.org/details/cu31924085208829</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">75247</meta>
+		<meta property="se:reading-ease.flesch">75.81</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Indiscretions_of_Archie</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_indiscretions-of-archie</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
@@ -89,6 +88,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
