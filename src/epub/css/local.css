@@ -89,6 +89,11 @@ section[epub|type~="dedication"] > *{
 	}
 }
 
+#dedication blockquote[epub|type~="z3998:letter"]{
+	margin: 1em 0;
+	text-align: initial;
+}
+
 #dedication blockquote > blockquote{
 	text-align: center;
 	font-variant: all-small-caps;
