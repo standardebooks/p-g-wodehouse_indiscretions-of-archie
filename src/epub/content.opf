@@ -60,7 +60,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3756</dc:source>
 		<dc:source>https://archive.org/details/cu31924085208829</dc:source>
 		<meta property="se:word-count">75080</meta>
-		<meta property="se:reading-ease.flesch">75.81</meta>
+		<meta property="se:reading-ease.flesch">75.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Indiscretions_of_Archie</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_indiscretions-of-archie</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
