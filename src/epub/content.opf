@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie</dc:identifier>
 		<dc:date>2022-01-07T23:51:51Z</dc:date>
@@ -53,11 +53,11 @@
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Indiscretions of Archie&lt;/i&gt; is a comic novel adapted from a set of short stories serialized in the Strand magazine between March 1920 and February 1921 in the United Kingdom and between May 1920 and February 1921 in Cosmopolitan in the United States. The novel was first published in the United Kingdom on February 14, 1921 by Herbert Jenkins and in the United States on July 15, 1921 by George H. Doran.&lt;/p&gt;
 			&lt;p&gt;The eponymous Archie is Archibald Moffam, a gaffe-prone but affable Englishman who has found himself living in New York City after the end of the First World War, in which he had served with distinction. After a whirlwind romance Archie marries Lucille, the daughter of wealthy hotel owner and art collector Daniel Brewster. Many of the ensuing events revolve around Archie’s attempts to win favor with his new father-in-law.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3756</dc:source>
 		<dc:source>https://archive.org/details/cu31924085208829</dc:source>
