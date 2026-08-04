@@ -53,7 +53,7 @@
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.</dc:abstract>
+		<meta property="schema:abstract">When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Indiscretions of Archie&lt;/i&gt; is a comic novel adapted from a set of short stories serialized in the Strand magazine between March 1920 and February 1921 in the United Kingdom and between May 1920 and February 1921 in Cosmopolitan in the United States. The novel was first published in the United Kingdom on February 14, 1921 by Herbert Jenkins and in the United States on July 15, 1921 by George H. Doran.&lt;/p&gt;
 			&lt;p&gt;The eponymous Archie is Archibald Moffam, a gaffe-prone but affable Englishman who has found himself living in New York City after the end of the First World War, in which he had served with distinction. After a whirlwind romance Archie marries Lucille, the daughter of wealthy hotel owner and art collector Daniel Brewster. Many of the ensuing events revolve around Archie’s attempts to win favor with his new father-in-law.&lt;/p&gt;
